@@ -1,3 +1,4 @@
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=aspxcor.visitor)
 # 一个实用的代码查重工具——sim
 * sim工具可用于搭建在线OJ平台，用于检测网络比赛中代码复制粘贴的现象，是一个轻量化的代码查重工具。
 ## 安装配置
